@@ -2,8 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const exec = require('child_process').exec;
 
-// must be absolute path
-const home = '/Users/mitul/Desktop/Series/Seinfeld Complete Box Set';
+const home = process.argv[2];
 const VLCPath = '/Applications/VLC.app/Contents/MacOS/VLC';
 const fileTypes = ['mkv', 'avi', 'mp4', 'webm', 'vob'];
 
