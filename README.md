@@ -22,7 +22,7 @@ Now sit back and enjoy the show! 💃
 
 --
 
-PS: Want a fancy icon on Desktop like this?  
+PS: I remember reading this somewhere: _"If you are getting bored, just click **one** item on your desktop. If that doesn't help, shutdown and go out."_
 
 ![Seinfeld logo](http://i.imgur.com/AsmUcxv.png)  
-Follow [this instructions](http://apple.stackexchange.com/a/6905).
+So here are [instructions](http://apple.stackexchange.com/a/6905) to create a fancy desktop icon.
