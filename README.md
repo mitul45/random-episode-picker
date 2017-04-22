@@ -14,7 +14,7 @@ Directory structure:
 
 Now sit back and enjoy the show! 💃
 
-###Requirements
+### Requirements
 - [VLC Player](http://www.videolan.org/vlc/index.html)
 - [node.js](https://nodejs.org/en/download/)
 
