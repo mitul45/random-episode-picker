@@ -22,7 +22,7 @@ Now sit back and enjoy the show! 💃
 
 --
 
-PS: I remember reading this somewhere: _"If you are getting bored, just click **one** item on your desktop. If that doesn't help, shutdown and go out."_
+_"If you are getting bored, click **one** thing on your screen. If that doesn't help, turn your computer off and go out."_
 
 ![Seinfeld logo](http://i.imgur.com/AsmUcxv.png)  
-So here are [instructions](http://apple.stackexchange.com/a/6905) to create a fancy desktop icon.
+Here are the [instructions](http://apple.stackexchange.com/a/6905) for that **one** thing :wink:
